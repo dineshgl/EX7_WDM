@@ -45,15 +45,15 @@ def hits_algorithm(adjacency_matrix, max_iterations=100, tol=1.0e-6):
     for i in range(max_iterations):
         # Authority update
 
-              /write your code here/
+             /*WRITE YOUR CODE HERE
         
         # Hub update
 
-              /write your code here/
+             /*WRITE YOUR CODE HERE
         
         # Check convergence
 
-              /write your code here/
+             /*WRITE YOUR CODE HERE
         
         if authority_diff < tol and hub_diff < tol:
             break
